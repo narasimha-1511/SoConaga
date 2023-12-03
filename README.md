@@ -2,7 +2,7 @@
 SoCo - Youtube Analytics
 
 Setup
-1. Download soCO Folder
+1. Download soCo Folder
 2. Go to chrome://extensions/
 3. Click on Load Unpacked
 4. Upload soCo Folder and Pin the Extension
