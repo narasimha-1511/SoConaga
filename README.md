@@ -1,5 +1,7 @@
 **SoCo - YouTube Analytics**
+<br>
 *Setup Instructions*
+<br>
 Follow these steps to set up SoCo and enjoy easy access to YouTube analytics.
 
 **1. Download SoCo Folder**
@@ -21,6 +23,7 @@ Select the SoCo Folder from your device and upload it.
 After uploading, make sure to pin the SoCo extension for easy access.
 
 *Get YouTube Analytics with Ease!*
+<br>
 **Now, visit YouTube, and you'll find access to analytics with ease using SoCo.**
-
+<br>
 Enjoy a clean and neat analytics experience!
